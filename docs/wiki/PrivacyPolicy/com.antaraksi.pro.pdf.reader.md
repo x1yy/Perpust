@@ -3,13 +3,13 @@ layout: main
 ---
 # Privacy Policy
 
-Librera built the Librera PRO app as a Commercial app. This SERVICE is provided by Librera and is intended for use as is.
+Perpust built the Perpust PRO app as a Commercial app. This SERVICE is provided by Perpust and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Librera PRO unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Perpust PRO unless otherwise defined in this Privacy Policy.
 
 **Information Collection and Use**
 
@@ -63,4 +63,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
 
-librera.reader@gmail.com
+dwipurnomo.yk@gmail.com
